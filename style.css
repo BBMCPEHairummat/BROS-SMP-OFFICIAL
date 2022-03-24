@@ -1,0 +1,26 @@
+#box { 
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 800px;
+  height: 700px;
+  font-family: arial black;
+    }
+    #1 { 
+ float: left; 
+ width: 400px;
+ height: 1000px;
+ border: solid black;
+ background-color: grey;
+ padding: 800px;
+ font-family: arial black;
+ line-height: 40px;
+    }  
+    #2 {
+ float: right;
+ width: 400px;
+ height: 100px;
+ background-color: Grey;
+ line-height: 10px;
+ text-weight: 100px;
+ font-family: arial black;
+    }

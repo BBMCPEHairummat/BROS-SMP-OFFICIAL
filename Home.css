@@ -1,0 +1,12 @@
+#box { 
+			Width: 800px;
+			height: 1000px;
+}
+
+#0 {
+		width: 400px;
+  font-family: Arial black;
+  background-color: #1c1b1b;
+  color: white;
+  border: solid white;
+}
